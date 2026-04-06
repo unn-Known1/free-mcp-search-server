@@ -1,0 +1,5 @@
+nohup: ignoring input
+  File "/workspace/free-mcp-search-server/mcp_server.py", line 31
+    search_cache: Dict[str, tuple[float, List[Dict]]]] = {}
+                                                     ^
+SyntaxError: unmatched ']'
